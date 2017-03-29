@@ -1,4 +1,4 @@
-## Interface: 70100
+## Interface: 70200
 ## Author: Eliote
 ## Title: Kui |cff9966ffNameplates: |cffffffffElite|r
 ## Notes: Adds 'Elite' in KuiNameplates
