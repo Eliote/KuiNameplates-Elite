@@ -1,8 +1,14 @@
-## Interface: 90100
+## Interface: 100000
+## Interface-Classic: 11403
+## Interface-BCC: 20504
+## Interface-Wrath: 30400
 ## Author: Eliote
 ## Title: Kui |cff9966ffNameplates: |cffffffffElite|r
 ## Notes: Adds 'Elite' in KuiNameplates
 ## Version: @project-version@
 ## Dependencies: Kui_Nameplates
+
+## X-Curse-Project-ID: 95683
+## X-Wago-ID: 9rN4lMND
 
 Kui_Nameplates_Elite.lua
