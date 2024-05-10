@@ -1,6 +1,6 @@
-## Interface: 100100
-## Interface-Classic: 11403
-## Interface-Wrath: 30401
+## Interface: 100207
+## Interface-Classic: 11502
+## Interface-Cata: 40400
 ## Author: Eliote
 ## Title: Kui |cff9966ffNameplates: |cffffffffElite|r
 ## Notes: Adds 'Elite' in KuiNameplates
